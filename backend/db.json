@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Mariana Cavalcante",
+      "email": "mariana@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Rebeca Vasconcelos",
+      "email": "rebeca@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Ingrid Simões",
+      "email": "ingrid@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Luis Rodrigues",
+      "email": "luisitaloar@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Lara Lira",
+      "email": "lara@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Sabrina Lopes",
+      "email": "sabrina@gmail.com",
+      "id": 9
+    }
+  ]
+}
